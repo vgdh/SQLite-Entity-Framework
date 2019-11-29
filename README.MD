@@ -5,7 +5,7 @@
 
 Установить в nuget
 
-	System.Data.SQLite.Core
+	System.Data.SQLite
 
 Автоматически с ней в зависимостях должны установиться
 
